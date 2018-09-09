@@ -22,10 +22,9 @@ class Menu {
             ['id' => 100 , 'parent' => 0, 'name' => '會員專區',      'uri' => "/hello", 'attributes' => [ 'class' => 'has-sub']],
             ['id' => 200 , 'parent' => 0, 'name' => '熱門活動',      'uri' => "#", 'attributes' => [ 'class' => 'has-sub']],
             ['id' => 300 , 'parent' => 0, 'name' => '購買禮物卡',    'uri' => "#"],
-            ['id' => 400 , 'parent' => 0, 'name' => '美術館生活圈',  'uri' => "#"],
-            ['id' => 500 , 'parent' => 0, 'name' => '專屬服務統覽',  'uri' => "#"],
-            ['id' => 600 , 'parent' => 0, 'name' => '常見問題',      'uri' => "#", 'attributes' => [ 'class' => 'has-sub']],
-            ['id' => 700 , 'parent' => 0, 'name' => '認識高美館',    'uri' => "chgpassword.php"],
+            ['id' => 400 , 'parent' => 0, 'name' => '專屬服務統覽',  'uri' => "#"],
+            ['id' => 500 , 'parent' => 0, 'name' => '常見問題',      'uri' => "#", 'attributes' => [ 'class' => 'has-sub']],
+            ['id' => 600 , 'parent' => 0, 'name' => '認識高美館',    'uri' => "chgpassword.php"],
 
             // 100 menu
             ['id'=>101, 'parent'=>100, 'name' => '個人資料維護',  'uri' => "account.php"],

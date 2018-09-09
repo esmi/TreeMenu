@@ -1,0 +1,19 @@
+{
+    "name": "esmi/treemenu",
+    "description": "a web menu builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "esmi",
+            "email": "evansmile@gmail.com"
+        }
+    ],
+    "require": {
+        "bluem/tree": "^2.0",
+        "knplabs/knp-menu": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {"Esmi\\": "src/"}
+    }
+}
