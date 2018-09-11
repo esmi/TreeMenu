@@ -1,5 +1,5 @@
 <?php
-use Esmi\TreeMenu;
+use Esmi\Menu\TreeMenu;
 
 class Menu {
 

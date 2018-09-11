@@ -7,7 +7,7 @@ include_once "Menu.php";
 $menu = new Menu();
 $m = $menu->getMenu();
 
-$menu->undisplayChild(['登出', '13_4','排程設定']);
+$m->undisplayChild(['登出', '13_4','排程設定']);
 
 echo $menu->render();
 

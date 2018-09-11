@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "bluem/tree": "^2.0",
+        "bluem/tree": "1.5.3",
         "knplabs/knp-menu": "^2.3"
     },
     "autoload": {
