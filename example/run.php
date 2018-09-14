@@ -1,6 +1,8 @@
 <?php
 require __DIR__ . "/../vendor/autoload.php";
 
+use Esmi\Menu\TreeMenu;
+
 include_once "Menu.php";
 
 //$menu = new Menu($recs);

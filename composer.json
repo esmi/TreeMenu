@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "bluem/tree": "1.5.3",
-        "knplabs/knp-menu": "^2.3"
+        "knplabs/knp-menu": "^2.3",
+        "bluem/tree": "^2.0"
     },
     "autoload": {
         "psr-4": {"Esmi\\": "src/"}
